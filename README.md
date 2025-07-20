@@ -1,1 +1,1 @@
-# golden-path
+A simple HTML/JS/CSS starter template
